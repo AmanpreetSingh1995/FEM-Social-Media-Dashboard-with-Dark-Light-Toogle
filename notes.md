@@ -2,7 +2,7 @@
 
 Light/Dark Mode Toogle -- takes system pref by default, but can override with toogle
 
--what HTML markup (sccessible) -- https://scottaohara.github.io/a11y_styled_form_controls/src/radio-button--switch/
+-what HTML markup (accessible) -- https://scottaohara.github.io/a11y_styled_form_controls/src/radio-button--switch/
 
 Use fieldset, legend, radio inputs
 
