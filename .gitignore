@@ -1,4 +1,4 @@
-# Avoid accidental Sketch file upload 
+﻿# Avoid accidental Sketch file upload 
 ###############################################
 ## Please do not remove line 5 - thanks! 🙂 ##
 ###############################################
@@ -15,5 +15,5 @@
 .DS_Store
 
 node_modules/
-dist/
+
 design/
